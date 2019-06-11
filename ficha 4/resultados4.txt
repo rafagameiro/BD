@@ -1,0 +1,244 @@
+Para poderem fazer alguma verificação da correção das vossas perguntas na ficha 4, aqui ficam, para cada pergunta, o que se obtém como primeiros resultados e o nº total de resultados:
+
+Atenção: Como apenas mostra os primeiros resultados, pode ser que os seus primeiros resultados não coincidam com estes nas perguntas em que não se impõe uma ordem...
+
+-- 1
+4418 resultados
+
+PEDRO P. D. L.	200
+LUÍS F. D. M.	198
+MIGUEL M. B.	197
+DUARTE M. E.	196
+ANA G. M. F.	196
+DIOGO A. D. F.	196
+MIGUEL D. S. M.	195
+MARIANA B. F.	195
+DIOGO J. M. C.	195
+BEATRIZ P. N. F.195
+SUSANA H. A.	195
+
+-- 2
+4418 resultados
+
+NÍDIA D. S. V.		Escola Secundária Jaime Moniz
+EUNICE F. Q.		Colégio Diocesano de Nossa Senhora da Apresentação
+ANDRÉ C. S. F.		Colégio do Sagrado Coração de Maria
+JOANA A. S.		Escola Secundária de Seia
+INÊS O. P. C.	   	Escola Secundária de Almeida Garrett
+CRISTIANA M. C. R. 	Escola Secundária da Amadora
+INÊS S. P. N.		Escola Secundária de Loulé
+ARTUR A. D. O.		Escola Secundária D. Dinis, Coimbra
+DIOGO A. D. A.		Escola Secundária Sebastião e Silva
+INÊS D. S. C.		Escola Secundária de Santa Comba Dão
+MARIANA R. S. A.	Escola Secundária de José Gomes Ferreira
+
+-- 3
+945 resultados
+
+SANDRO M. F. C.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+GONÇALO R. B.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+JOÃO F. L. S.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+SHELBE A. D. A.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+PEDRO R. D. S.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+INÊS D. S. C.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+ANA P. N. P.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+ABEL Z. B. T.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+DIOGO C. D. S.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+RODRIGO M. S. P.	Escola Básica e Secundária de Michel Giacometti	Sesimbra
+ANDRÉ D. S. C.		Escola Básica e Secundária de Michel Giacometti	Sesimbra
+
+-- 4
+6 resultados
+
+1	Ciências Farmacêuticas		 Universidade de Lisboa - Faculdade de Farmácia				172
+2	Engenharia Biomédica e Biofísica Universidade de Lisboa - Faculdade de Ciências				177.8
+3	Engenharia Biomédica		 Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia	178.4
+4	Bioquímica			 Universidade de Lisboa - Faculdade de Ciências				177.8
+5	Bioquímica			 Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia	183
+6	Bioquímica			 Universidade de Évora - Escola de Ciências e Tecnologia		182.8
+
+-- 5
+Esta depende do seu nome...
+
+
+-- 6
+5 resultados
+
+Matemática A		2016	1	163
+Português		2016	1	162
+Biologia e Geologia	2015	1	140
+Biologia e Geologia	2015	2	165
+Física e Química A	2015	1	186
+
+-- 7
+48 resultados
+
+AFONSO M. A. G.	Imagem Médica e Radioterapia			Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa
+AFONSO F. D. P.	Engenharia do Ambiente				Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO B. D. C.	Engenharia Informática e de Computadores	Universidade de Lisboa - Instituto Superior Técnico
+AFONSO S. D. B.	Engenharia Informática e de Computadores	Universidade de Lisboa - Instituto Superior Técnico
+AFONSO G. A.	Engenharia Informática				Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO S. D. A.	Engenharia Informática				Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+AFONSO B. D. F.	Engenharia Informática				ISCTE - Instituto Universitário de Lisboa
+AFONSO C. C. G.	Engenharia Informática				Universidade de Lisboa - Faculdade de Ciências
+AFONSO M. T. S.	Engenharia Informática e de Computadores	Instituto Politécnico de Lisboa - Instituto Superior de Engenharia de Lisboa
+AFONSO C. A.	Engenharia Eletrotécnica e de Computadores	Universidade de Lisboa - Instituto Superior Técnico
+AFONSO A. P. S.	Engenharia Eletrotécnica e de Computadores	Universidade Nova de Lisboa - Faculdade de Ciências e Tecnologia
+
+-- 8
+169 resultados
+
+FILIPA A. G. C.		155	162	1	Escola Secundária D. Sancho II, Elvas
+ANA R. O. S.		154.8	166	3	Escola Secundária de Fafe
+JOANA S. R. B.		155.4	155	1	Escola Secundária de Campo Maior
+ANTÓNIO H. D. M.	154.6	137	3	Equivalências (nº 2 Artº 20-A)
+JOANA B. P.		189	183	1	Escola Secundária Cacilhas - Tejo
+EMA R. V.		180.6	186	1	Escola Básica e Secundária de Mondim de Basto
+BÁRBARA B. G. L.	180.4	178	1	Escola Secundária de José Gomes Ferreira
+EDUARDA A. P. D.	179.6	185	6	Escola Secundária de S. Pedro
+TIAGO G. D. C.		176.8	176	1	Escola Secundária de Campo Maior
+MIGUEL S. D. J.		172.4	162	1	Escola Básica e Secundária Anselmo de Andrade
+VÍTOR M. P. P.		170.2	167	1	Escola Básica e Secundária de Mondim de Basto
+
+-- 9
+Esta depende da Escola onde andou.
+Na resposta abaixo seguem os resultados relativos a Escola Secundária Gabriel Pereira.
+
+6 resultados
+
+PEDRO M. C. C.	Engenharia Informática
+PEDRO I. L.	Bioquímica
+AFONSO B. F. G.	Engenharia Mecânica
+JOANA C. C.	Engenharia Biomédica
+RUI F. C. N.	Engenharia Mecânica
+MIGUEL S. D. O.	Engenharia Mecânica
+
+-- 10
+301 resultados
+
+SOFIA I. M. Q.		Gestão
+JOÃO J. A. S.		Economia
+PEDRO R. C. L.		Gestão
+RODRIGO S. B. G.	Economia
+ANDRÉ N. Q.		Sistemas e Tecnologias de Informação
+MARTA S. S. M.		Economia
+INÊS S. M. F.		Gestão
+MARIA D. L. M.		Economia
+DIOGO M. C.		Sistemas e Tecnologias de Informação
+XAVIER G. G.		Economia
+HENRIQUE J. G. P.	Gestão
+
+-- 11
+844 resultados
+
+SOFIA I. M. Q.		Lisboa	Évora
+CLARA G. N. G.		Setúbal	Lisboa
+ANDREIA F. P.		Setúbal	Braga
+CAROLINA L. C.		Setúbal	Leiria
+IRYNA P.		Setúbal	Lisboa
+TOMÁS K. D. A.		Setúbal	Lisboa
+MARIA D. S. P.		Setúbal	Lisboa
+DIOGO D. L.		Setúbal	Faro
+CAROLINA M. B. P.	Setúbal	Lisboa
+YANA H.			Setúbal	Santarém
+CLÁUDIA F. C. B.	Setúbal	Lisboa
+
+-- 12
+68 resultados
+
+ALÍCIA M. S. T.	78
+ANA C. L. F.	138
+ANA C. V. R.	148
+ANA D. O. C.	146
+ANA D. S. S.	165
+ANA E. D. S.	140
+ANA F. S. C.	136
+ANA M. D. C.	145
+ANA P. N. P.	157
+BEATRIZ V. C.	157
+CAROLINA B. F.	135
+
+-- 13
+156 resultados
+
+LUÍS S. D. R.	1	2
+BRUNO R. V. T.	1	6
+ANTÓNIO R. C.	1	2
+PEDRO M. O. V.	1	3
+JOÃO G. S. S.	1	2
+JOÃO D. S. M.	1	2
+JOÃO V. C. T.	1	2
+JOÃO M. M. P.	2	5
+JOÃO M. P. M.	1	3
+DIOGO A. R. F.	3	5
+PEDRO F. D. S.	1	2
+
+-- 14
+122 resultados
+
+LUÍS S. D. R.		1	4
+RODRIGO F. A. R.	3	6
+PEDRO M. O. V.		1	2
+ANA B. P. Q.		4	6
+JOÃO V. C. T.		1	4
+ANA D. R. E.		1	4
+FRANCISCO P. D. S.	1	2
+ANTÓNIO D. S. B.	1	2
+DIOGO G. M. C.		1	2
+MIGUEL B. C.		1	3
+JOÃO P. O. C.		3	4
+
+-- 15
+420 resultados
+
+ADRIAN M.		118278
+ADRIANA F. B.		130681
+ADRIANA S. T. M.	122166
+AFONSO D. O. G.		110776
+AFONSO E. P. N.		51088
+AFONSO L. D. P.		158855
+ALEXANDRE A. M.		121178
+ALEXANDRE C. P.		44881
+ALEXANDRE D. M. I.	64512
+ALEXANDRE D. S. F.	43274
+ALEXANDRE E. P. P.	124361
+
+-- 16
+15 resultados
+
+Engenharia Informática
+Engenharia Civil
+Conservação - Restauro
+Matemática
+Engenharia Mecânica
+Engenharia de Materiais
+Bioquímica
+Biologia Celular e Molecular
+Engenharia do Ambiente
+Engenharia e Gestão Industrial
+Engenharia Eletrotécnica e de Computadores
+Engenharia Química e Bioquímica
+Engenharia de Micro e Nanotecnologias
+Engenharia Geológica
+Engenharia Física
+
+-- 17
+8 resultados
+
+Bioquímica
+Conservação - Restauro
+Engenharia Civil
+Engenharia Geológica
+Engenharia Informática
+Engenharia Química e Bioquímica
+Engenharia de Materiais
+Engenharia do Ambiente
+
+-- 18
+4 resultados
+
+Engenharia Civil
+Bioquímica
+Engenharia do Ambiente
+Engenharia Geológica
+
